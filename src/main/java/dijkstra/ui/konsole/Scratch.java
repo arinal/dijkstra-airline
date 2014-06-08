@@ -1,4 +1,4 @@
-package dijsktra.ui.konsole;
+package dijkstra.ui.konsole;
 
 import org.springframework.context.support.GenericXmlApplicationContext;
 
